@@ -1,1 +1,1 @@
-# Weather Info
+A python script to fetch weather information based on geographical location. 
